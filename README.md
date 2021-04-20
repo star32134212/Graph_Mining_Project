@@ -1,6 +1,16 @@
 # Graph_Mining_Project  
 
-## Reference
-[dataset introduction](https://www.zuozuovera.com/archives/918/)  
-[mlp](https://hyjal.net/2018/09/29/ADFA-LD/)  
-[Feature Enginnering and N-gram](https://www.cnblogs.com/LittleHann/p/7806093.html)  
+## Requirements
+```
+import re
+from collections import defaultdict
+import matplotlib.pyplot as plt
+import os
+import numpy as np
+import powerlaw
+import math
+```
+
+## Contributions
+109065510 姜林寬 50% : 資料前處理、正常序列之分析、撰寫報告  
+109062657 鄭宏彬 50% : Upsampling、異常序列之分析、撰寫報告  
