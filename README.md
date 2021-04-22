@@ -9,6 +9,8 @@ import os
 import numpy as np
 import powerlaw
 import math
+from sklearn import linear_model
+from scipy.stats import norm
 ```
 
 ## Contributions
